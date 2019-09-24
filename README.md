@@ -1,6 +1,6 @@
 # springboot-oauth2
 
-1)In order to install all the dependencies  use maven build tool
+1)In order to install all the dependencies you should use maven build tool
 open the terminal or command prompt in windows go to source folder where pom.xml file is and type.
 
 #mvn clean install
